@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Sandesh Bhujbal. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="430"/>
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=sandesh300" alt="adi10hero" /> </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
