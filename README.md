@@ -12,7 +12,7 @@
 
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 
-- 🎓  Recently completed a Master's degree from Modern College in Computer Science.
+- 🎓 Recently completed a Master's degree in Computer Science from Modern College Pune.
   
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code
 
