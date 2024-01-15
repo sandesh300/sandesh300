@@ -6,13 +6,13 @@
 
 - 📝 Checkout my [Portfolio](https://sandesh-bhujbal.vercel.app)
 
-- 💼  Full Stack Developer
+- 💼  Software Engineer | Full Stack Developer
 
 - ✍️  Currently Learning Web Development, System Design, DBMS, and DSA.
 
-- 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
+- 🎯 &nbsp;Exploring newer technologies and developing software solutions and quick hacks.
 
-- 🎓 Recently completed a Master's degree in Computer Science from Modern College Pune.
+- 🎓 Recently completed a Master's degree in Computer Science from University of Pune.
   
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code
 
@@ -37,6 +37,8 @@
 
 <a href="https://www.leetcode.com/https://leetcode.com/sandesh_30/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sandesh_30/" height="30" width="40" /></a>
+
+
 </p>
 
 
