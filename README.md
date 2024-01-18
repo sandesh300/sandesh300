@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📝 Checkout my [Portfolio](https://sandesh-bhujbal.vercel.app)
+- 📝 Checkout my - [Portfolio](https://sandesh-bhujbal.vercel.app)
 
 - 💼  Software Engineer | Full Stack Developer
 
@@ -13,6 +13,8 @@
 - 🎯 &nbsp;Exploring newer technologies and developing software solutions and quick hacks.
 
 - 🎓 Recently completed a Master's degree in Computer Science from University of Pune.
+
+-  🔷 Contact me - bhujbalsandesh52@gmail.com 
   
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code
 
