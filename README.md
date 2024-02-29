@@ -18,7 +18,7 @@
 
 - 🎓 Recently completed a Master's degree in Computer Science from University of Pune.
 
--  📫 How to reach me: [bhujbalsandesh52@gmail.com](mailto:bhujbalsandesh52@gmail.com)
+-  📫 How to reach me - [bhujbalsandesh52@gmail.com](mailto:bhujbalsandesh52@gmail.com)
   
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code
 
