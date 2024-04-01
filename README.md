@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Sandesh Bhujbal. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h1> Hey there! I'm Sandesh Bhujbal. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h1>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300" width="430"/>
 <!-- <p align="left"> <img   src="https://komarev.com/ghpvc/?username=sandesh300" alt="adi10hero" /> </p>
  -->
@@ -96,13 +96,13 @@
 
 
 
-<h2 align="center">Top Used Languages 💻</h2>
+<h2 align="center">Top Used Languages: 💻</h2>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh300&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" height="250" /></p>
 <br><br>
 
 
 
-<h2 align="center"> Github Statistics 📈 </h2>
+<h2 align="center"> GitHub Statistics: 📈 </h2>
 <div align="center"> 
   <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sandesh300&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40" /></a></div>
