@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Sandesh Bhujbal. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430"/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300" width="430"/>
 <!-- <p align="left"> <img   src="https://komarev.com/ghpvc/?username=sandesh300" alt="adi10hero" /> </p>
  -->
 
@@ -21,8 +21,12 @@
 
 <h3 align="left">Connect with me: 🌐</h3>
 <p align="left">
+
+<a href="mailto:bhujbalsandesh52@gmail.com" target="_blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="30" /></a>
+ 
 <a href="https://www.linkedin.com/in/sandesh-bhujbal-b3a16a222/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandesh-bhujbal-b3a16a222/" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandesh-bhujbal-b3a16a222/" height="30" width="40" /></a>
   
 <a href="https://instagram.com/sandesh__30_" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandesh__30_" height="30" width="40" /></a>
@@ -36,9 +40,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/sandesh_30/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sandesh_30/" height="30" width="40" /></a>
 
-<a href="mailto:bhujbalsandesh52@gmail.com" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="30" />
-</a>
+
 
 </p>
 
