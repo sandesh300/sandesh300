@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Sandesh Bhujbal. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="430"/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430"/>
 <!-- <p align="left"> <img   src="https://komarev.com/ghpvc/?username=sandesh300" alt="adi10hero" /> </p>
  -->
 
@@ -7,20 +7,16 @@
  
 <h3> About Me 👨🏻‍💻</h3>
 
-- 📝 Checkout my - [Portfolio](https://sandesh-bhujbal.vercel.app)
+- 📝  Checkout my - [Portfolio](https://sandesh-bhujbal.vercel.app)
 
 - 💼  Software Engineer | Full Stack Developer
 
 - ✍️  Currently Learning Web Development, System Design, DBMS, and DSA.
 
-- 🎯 &nbsp;Exploring newer technologies and developing software solutions and quick hacks.
+- 🎯  Exploring newer technologies and developing software solutions and quick hacks.
 
-- 🎓 Recently completed a Master's degree in Computer Science from University of Pune.
-
--  📫 How to reach me - [bhujbalsandesh52@gmail.com](mailto:bhujbalsandesh52@gmail.com)
+- 🎓  Recently completed a Master's degree in Computer Science from University of Pune.
   
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code
-
 
 
 <h3 align="left">Connect with me: 🌐</h3>
@@ -39,6 +35,11 @@
 
 <a href="https://www.leetcode.com/https://leetcode.com/sandesh_30/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sandesh_30/" height="30" width="40" /></a>
+
+<a href="mailto:bhujbalsandesh52@gmail.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="30" />
+</a>
+
 </p>
 
 
