@@ -12,7 +12,7 @@
 
 - 💼  Software Engineer | Full Stack Developer
 
-- ✍️  Currently Learning Web Development, System Design, DBMS, and DSA.
+- ✍️  Currently Learning Web Development, DBMS, DSA and System Design.
 
 - 🎯  Exploring newer technologies and developing software solutions and quick hacks.
 
