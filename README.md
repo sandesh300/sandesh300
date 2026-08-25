@@ -65,16 +65,21 @@
 </table>
 
 
-<h2 align="center">Top Used Languages: 💻</h2>
+<h2 align="center">GitHub Activity 📊</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh300&langs_count=10&theme=tokyonight&layout=compact" height="250"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandesh300&theme=github_dark"
+    height="180"
+  />
+ 
 </p>
 
-
-
-<h2 align="center">GitHub Statistics: 📈</h2>
+<h2 align="center">Most Used Languages 💻</h2>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sandesh300&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandesh300&theme=github_dark"
+    height="180"
+  />
 </p>
